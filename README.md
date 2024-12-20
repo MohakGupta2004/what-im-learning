@@ -7,7 +7,7 @@
 - Nest JS: still figuring out.
 
 ### Cyber Security
-- 100 projects with learning more python: https://github.com/kurogai/100-redteam-projects.git
+- 100 projects with learning more python:[ https://github.com/kurogai/100-redteam-projects.git](https://github.com/MohakGupta2004/100-redteam-projects.git)
 
 ### 2025 resolution 
 - Create a Leetcode clone
