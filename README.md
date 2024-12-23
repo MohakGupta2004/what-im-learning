@@ -12,6 +12,9 @@
 ###### Code styles + a project
 - Next JS: https://youtube.com/playlist?list=PLu71SKxNbfoBAaWGtn9GA2PTw0HO0tXzq&si=thDjJo41DNln-t1d
 
+### System design
+- One playlist: https://youtube.com/playlist?list=PLA3GkZPtsafZdyC5iucNM_uhqGJ5yFNUM&si=wc1cHDXlxU9aNkDL
+
 ### Cyber Security
 - 100 projects with learning more python:[ https://github.com/kurogai/100-redteam-projects.git](https://github.com/MohakGupta2004/100-redteam-projects.git)
 
